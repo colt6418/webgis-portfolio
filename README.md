@@ -36,11 +36,12 @@ One of my favorite assignments we've done this semester was the Production Assig
 _The original submitted draft of the piano map_
 
 See the original map <a href=https://colt6418.github.io/Assignment-7-old>here</a>
-<!-- figure out how to embed map or link for this!!-->
 
-I believe that this map is pretty adequate as it is, but I've decided to add new features to make it better.
+In order to improve the map, I used some css formating to make a title, as well as a quick tip on how to interact with the map to make it more welcoming.
 
-(segway to assignment 8)
+See the new version of the map <!-- --> here
+
+While I was very eager to make a map of my piano findings, I've always wanted to find a way to let people collaboratively track the locations of different pianos on campus. This brings us to... 
 
 ## Production Assignment #8: Making a Survey
 
