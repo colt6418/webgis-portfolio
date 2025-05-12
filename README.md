@@ -2,8 +2,8 @@
   
 # Welcome to my portfolio!
 For my portfolio, I will displaying three different assignments from the semester and demonstrate how I've improved them.
-__Note:__
 
+__Note:__
 _Please read this on the home page as the links will not work otherwise!_
 
 </header>
