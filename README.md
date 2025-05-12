@@ -35,7 +35,7 @@ One of my favorite assignments we've done this semester was the Production Assig
 
 _The original submitted draft of the piano map_
 
-See the original map _here_
+See the original map <a href=https://github.com/colt6418/webgis-portfolio/blob/map-7-code/Piano_Map_CDM_old.html>here</a>
 <!-- figure out how to embed map or link for this!!-->
 
 I believe that this map is pretty adequate as it is, but I've decided to add new features to make it better.
