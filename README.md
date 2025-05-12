@@ -35,11 +35,15 @@ One of my favorite assignments we've done this semester was the Production Assig
 
 _The original submitted draft of the piano map_
 
-See the original map <a href=https://colt6418.github.io/Assignment-7-old>here</a>
+Visit the original map <a href=https://colt6418.github.io/Assignment-7-old>here</a>
 
 In order to improve the map, I used some css formating to make a title, as well as a quick tip on how to interact with the map to make it more welcoming.
 
-See the new version of the map <!-- --> here
+<img src=https://github.com/colt6418/webgis-portfolio/blob/screenshots/map7_new.png>
+
+_The new map, now with a title and instructions_
+
+Visit the new version of the map <!-- --> here
 
 While I was very eager to make a map of my piano findings, I've always wanted to find a way to let people collaboratively track the locations of different pianos on campus. This brings us to... 
 
