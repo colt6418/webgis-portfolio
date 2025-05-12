@@ -1,7 +1,8 @@
 <header>
   
 # Welcome to my portfolio!
-_For my portfolio, I will displaying three different assignments from the semester and demonstrate how I've improved them._
+For my portfolio, I will displaying three different assignments from the semester and demonstrate how I've improved them.
+__Note:__ _Please read this on the home page as the links will not work otherwise!_
 
 </header>
 
