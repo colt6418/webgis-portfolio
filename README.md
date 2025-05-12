@@ -28,7 +28,7 @@ One of my favorite assignments we've done this semester was the Production Assig
 - Type of piano
 - Additional notes on the piano
 
-<img href=https://github.com/colt6418/webgis-portfolio/blob/screenshots/map7_old.png alt="Orignal Draft">
+<img src=https://github.com/colt6418/webgis-portfolio/blob/screenshots/map7_old.png alt="Orignal Draft">
 
 _The original submitted draft of the piano map_
 
