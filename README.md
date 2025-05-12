@@ -59,6 +59,8 @@ Additional optional Questions include:
 
 I made most of the questions optional because I wanted to include options to include more details about the pianos, while trying not to deter people from submitting enough information that would allow me to track the piano myself to gather any additional data I need.
 
-While I believe that this survey sufficiently serves its purpose, I've found ways that I can improve it. For one, I added a link to a map of the submitted data so people can easily check which spots have been submitted already to avoid double submissions, or even if they're just curious. I've also added an 'other' option that allows the user to type in 
+While I believe that this survey sufficiently serves its purpose, I've found ways that I can improve it. For one, I added a link to a <a href=https://umass-amherst.maps.arcgis.com/apps/mapviewer/index.html?webmap=f4ee6a28c8e8402ab9d371320ced615d>map</a> of the submitted data so people can easily check which spots have been submitted already to avoid double submissions, or even if they're just curious. I've also added an 'other' option that allows the user to type in case they find something else such as an organ.
+
+<img src=https://github.com/colt6418/webgis-portfolio/blob/screenshots/survey_picture.png alt="survey" href=https://survey123.arcgis.com/share/632117025b4a4b5da844ff46a177ad06>
 
 
