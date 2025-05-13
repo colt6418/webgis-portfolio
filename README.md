@@ -23,11 +23,11 @@ Since this was the very first project I figured this would be the perfect opport
 
 To improve them map, I added the websites to each winery that has one, and categorized the points by whether or not the winery is open. To make the two states stand out on the map, I added a used a shapefile from Esri of the state boundaries and filtered out the other states. To add some functionality, I used the Nearby Web App so that you can use the app to track which locations are nearest to you, or an entered location.
 
-<!-- <img src= > -->
+<img src=https://github.com/colt6418/webgis-portfolio/blob/screenshots/map1_new.png alt="New map"> 
 
 _The improved web app with new functionality!_
 
-
+<br>
 Check out a live version of the new web app <a href="https://umass-amherst.maps.arcgis.com/apps/instant/nearby/index.html?appid=c6c753d6edb54458a4985d6f3ec4b6ee">here</a>.
 
 ## Production Assignment #7: Mapbox
