@@ -32,7 +32,7 @@ _The improved web app with new functionality!_
 
 Check out a live version of the new web app <a href="https://umass-amherst.maps.arcgis.com/apps/instant/nearby/index.html?appid=c6c753d6edb54458a4985d6f3ec4b6ee">here</a>.
 
-Overall, I believe this version of the map feels more fleshed out, and has a proper purpose.
+Overall, I believe this version of the map feels more fleshed out, and has a proper purpose. I'm happy to have had the chance to go back and improve my first project!
 
 <br>
 
@@ -88,3 +88,9 @@ While I believe that this survey sufficiently serves its purpose, I've found way
 <img src=https://github.com/colt6418/webgis-portfolio/blob/screenshots/survey_picture.png alt="survey">
 
 Check out the survey <a href=https://survey123.arcgis.com/share/632117025b4a4b5da844ff46a177ad06>here</a>!
+
+<br>
+
+## Thank you!
+
+Thank you for looking through my portfolio! This was a fun project to put together since it gave me the chance to look back at some of the projects we've done over the semester and improve them.
