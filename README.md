@@ -36,6 +36,7 @@ One of my favorite assignments we've done this semester was the Production Assig
 
 _The original submitted draft of the piano map_
 
+<iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/nearby/index.html?appid=c6c753d6edb54458a4985d6f3ec4b6ee" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
 Visit the original map <a href=https://colt6418.github.io/Assignment-7-old>here</a>.
 
