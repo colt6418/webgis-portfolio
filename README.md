@@ -21,7 +21,14 @@ Check out a live version of the original web app <a href="https://umass-amherst.
 
 Since this was the very first project I figured this would be the perfect opportunity to go back and improve it now that I have a full semester of webGIS under my belt.
 
+To improve them map, I added the websites to each winery that has one, and categorized the points by whether or not the winery is open. To make the two states stand out on the map, I added a used a shapefile from Esri of the state boundaries and filtered out the other states. To add some functionality, I used the Nearby Web App so that you can use the app to track which locations are nearest to you, or an entered location.
 
+<!-- <img src= > -->
+
+_The improved web app with new functionality!_
+
+
+Check out a live version of the new web app <a href="https://umass-amherst.maps.arcgis.com/apps/instant/nearby/index.html?appid=c6c753d6edb54458a4985d6f3ec4b6ee">here</a>.
 
 ## Production Assignment #7: Mapbox
 
@@ -36,7 +43,6 @@ One of my favorite assignments we've done this semester was the Production Assig
 
 _The original submitted draft of the piano map_
 
-<iframe src="https://umass-amherst.maps.arcgis.com/apps/instant/nearby/index.html?appid=c6c753d6edb54458a4985d6f3ec4b6ee" width="400" height="600" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
 
 Visit the original map <a href=https://colt6418.github.io/Assignment-7-old>here</a>.
 
